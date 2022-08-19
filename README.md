@@ -18,6 +18,8 @@ The app was created on an M1 Mac, using RubyMine, with the following:
 
 * Start the server using: bin/rails s
 
+* Navigate to: http://localhost:3000/posts
+
 * Deployment: that is up to the user
 
 * Enjoy!
