@@ -1,6 +1,6 @@
 # README
 
-This is a recreation of the demo app that DHH demonstrates on the home page of https://rubyonrails.org/
+This is a recreation of the demo app that DHH demonstrates on the Rails home page: https://rubyonrails.org/
 
 Also available directly on YouTube here: https://www.youtube.com/watch?v=mpWFrUwAN88
 
