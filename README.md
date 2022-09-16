@@ -2,6 +2,8 @@
 
 This is a recreation of the demo app that DHH demonstrates on the home page of https://rubyonrails.org/
 
+Also available directly on YouTube here: https://www.youtube.com/watch?v=mpWFrUwAN88
+
 It includes everything except the portion where he uploads the app to Heroku.
 
 The app was created on an M1 Mac, using RubyMine, with the following:
